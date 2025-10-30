@@ -1,0 +1,14 @@
+{
+    "name": "gold-wall",
+    "description": "Protects buildings from enemy projectiles.",
+    "type": "Wall",
+    "health": 250,
+    "size": 1,
+    "requirements": [
+        { "item": "gold", "amount": 6 }
+    ],
+    "category": "defense",
+    "research": "iron-wall-large"
+}
+
+

@@ -1,0 +1,9 @@
+{
+    "type": "OreBlock",
+    "name": "iron-ore",
+    "itemDrop": "iron",
+    "variants": 3,
+    "oreDefault": true,
+    "oreThreshold": 0.8,
+    "oreScale": 24
+}

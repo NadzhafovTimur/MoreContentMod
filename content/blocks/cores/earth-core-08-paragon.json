@@ -1,0 +1,24 @@
+{
+    "localizedName": "Core: Paragon",
+    "description": "-",
+    "type": "CoreBlock",
+    "size": 9,
+    "health": 128000,
+    "itemCapacity": 128000,
+    "unitCapModifier": 56,
+    "requirements": [
+        "copper/64000",
+        "lead/32000",
+        "iron/16000",
+        "gold/8000",
+        "silicon/4000",
+        "titanium/2000",
+        "beryllium/1000",
+        "thorium/500"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "earth-core-07-zenith"
+    },
+    "upgrades": ["earth-core-09-eternum"]
+}

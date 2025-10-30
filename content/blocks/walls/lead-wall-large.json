@@ -1,0 +1,14 @@
+{
+    "name": "large-lead-wall",
+    "description": "Protects buildings from enemy projectiles.",
+    "type": "Wall",
+    "health": 1280,
+    "size": 2,
+    "requirements": [
+        { "item": "lead", "amount": 24 }
+    ],
+    "category": "defense",
+    "research": "lead-wall"
+
+}
+

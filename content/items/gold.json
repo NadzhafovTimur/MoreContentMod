@@ -1,0 +1,8 @@
+{
+    "type": "material",
+    "name": "gold",
+    "description": "-",
+    "hardness": 3,
+    "color": "ffd700",
+    "cost": 2.0
+}

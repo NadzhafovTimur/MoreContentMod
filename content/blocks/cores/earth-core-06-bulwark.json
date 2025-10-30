@@ -1,0 +1,22 @@
+{
+    "localizedName": "Core: Bulwark",
+    "description": "-",
+    "type": "CoreBlock",
+    "size": 7,
+    "health": 32000,
+    "itemCapacity": 32000,
+    "unitCapModifier": 40,
+    "requirements": [
+        "copper/16000",
+        "lead/8000",
+        "iron/4000",
+        "gold/2000",
+        "silicon/1000",
+        "titanium/500"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "earth-core-05-axis"
+    },
+    "upgrades": ["earth-core-07-zenith"]
+}

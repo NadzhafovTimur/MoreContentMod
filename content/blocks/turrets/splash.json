@@ -1,0 +1,102 @@
+{
+    "type": "LiquidTurret",
+    "name": "splash",
+    "description": "-",
+
+    "researchCostMultiplier": 1.4,
+    "size": 4,
+    "health": 1000,
+    "reload": 1,
+    "inaccuracy": 6,
+    "shootY": 0,
+    "range": 250,
+    "liquidConsumed": 1.8,
+    "rotateSpeed": 2,
+
+    "shoot": {
+        "type": "ShootAlternate",
+        "shots": 2,
+        "spread": 8
+    },
+
+    "shootSound": "water",
+
+    "ammoTypes": {
+        "water": {
+            "type": "LiquidBulletType",
+            "liquid": "water",
+            "damage": 1,
+            "width": 5.5,
+            "length": 250,
+            "drawSize": 400,
+            "knockback": 0.3,
+            "speed": 5,
+            "lifetime": 50,
+            "status": "wet",
+            "statusDuration": 60,
+            "colors": ["6ECDECFF", "A6F5FFFF", "FFFFFFFF"]
+        },
+        "cryofluid": {
+            "type": "LiquidBulletType",
+            "liquid": "cryofluid",
+            "damage": 3,
+            "width": 6,
+            "length": 250,
+            "drawSize": 400,
+            "speed": 5,
+            "lifetime": 50,
+            "status": "freezing",
+            "statusDuration": 120,
+            "colors": ["9CFBFFFF", "C8FFFFFF", "FFFFFFFF"]
+        },
+        "oil": {
+            "type": "LiquidBulletType",
+            "liquid": "oil",
+            "damage": 2,
+            "width": 6,
+            "length": 250,
+            "drawSize": 400,
+            "speed": 5,
+            "lifetime": 50,
+            "status": "tarred",
+            "statusDuration": 90,
+            "colors": ["2E2B26FF", "3A3731FF", "4B4740FF"]
+        },
+        "slag": {
+            "type": "LiquidBulletType",
+            "liquid": "slag",
+            "damage": 5,
+            "width": 6.5,
+            "length": 250,
+            "drawSize": 400,
+            "speed": 5,
+            "lifetime": 50,
+            "status": "melting",
+            "statusDuration": 90,
+            "colors": ["FF9349FF", "FFB164FF", "FFD7A4FF"]
+        },
+        "sulfuric-acid": {
+            "type": "LiquidBulletType",
+            "liquid": "sulfuric-acid",
+            "damage": 5,
+            "width": 6.5,
+            "length": 250,
+            "drawSize": 400,
+            "speed": 5,
+            "lifetime": 50,
+            "status": "corroded",
+            "statusDuration": 150,
+            "colors": ["8AFF00FF", "AAFF55FF", "E0FFC0FF"]
+        }
+    },
+
+    "requirements": [
+        "silicon/120",
+        "graphite/260",
+        "lead/230"
+    ],
+
+    "envRequired": 0,
+    "enDisabled": 4,
+    "category": "turret"
+}

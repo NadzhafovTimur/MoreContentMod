@@ -1,0 +1,20 @@
+{
+    "localizedName": "Core: Sentinel",
+    "description": "Среднее ядро, оснащённое улучшенной защитой и связью.",
+    "type": "CoreBlock",
+    "size": 5,
+    "health": 8000,
+    "itemCapacity": 8000,
+    "unitCapModifier": 24,
+    "requirements": [
+        "copper/4000",
+        "lead/2000",
+        "iron/1000",
+        "gold/500"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "earth-core-03-cradle"
+    },
+    "upgrades": ["earth-core-05-axis"]
+}

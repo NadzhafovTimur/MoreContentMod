@@ -1,0 +1,23 @@
+{
+    "localizedName": "Core: Zenith",
+    "description": "-",
+    "type": "CoreBlock",
+    "size": 8,
+    "health": 64000,
+    "itemCapacity": 64000,
+    "unitCapModifier": 48,
+    "requirements": [
+        "copper/32000",
+        "lead/16000",
+        "iron/8000",
+        "gold/4000",
+        "silicon/2000",
+        "titanium/1000",
+        "beryllium/500"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "earth-core-06-bulwark"
+    },
+    "upgrades": ["earth-core-08-paragon"]
+}

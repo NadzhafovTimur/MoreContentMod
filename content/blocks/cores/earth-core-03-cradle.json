@@ -1,0 +1,19 @@
+{
+    "localizedName": "Core: Cradle",
+    "description": "-",
+    "type": "CoreBlock",
+    "size": 4,
+    "health": 4000,
+    "itemCapacity": 4000,
+    "unitCapModifier": 16,
+    "requirements": [
+        "copper/2000",
+        "lead/1000",
+        "iron/500"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "earth-core-02-hearth"
+    },
+    "upgrades": ["earth-core-04-sentinel"]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "liquid",
+    "name": "sulfuric-acid",
+    "description": "-",
+    "color": "b8ff2f",
+    "alwaysUnlocked": false,
+    "temperature": 0.5,
+    "flammability": 0,
+    "viscosity": 0,
+    "heatCapacity": 0,
+    "explosiveness": 0,
+    "effect": "corroded"
+}

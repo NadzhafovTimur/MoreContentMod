@@ -1,0 +1,13 @@
+{
+    "name": "iron-wall",
+    "description": "Protects buildings from enemy projectiles.",
+    "type": "Wall",
+    "health": 400,
+    "size": 1,
+    "requirements": [
+        "iron/6"
+    ],
+    "category": "defense",
+    "research": "lead-wall-large"
+
+}

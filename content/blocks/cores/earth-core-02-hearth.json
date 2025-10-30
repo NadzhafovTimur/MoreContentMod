@@ -1,0 +1,18 @@
+{
+    "localizedName": "Core: Hearth",
+    "description": "-",
+    "type": "CoreBlock",
+    "size": 3,
+    "health": 2000,
+    "itemCapacity": 2000,
+    "unitCapModifier": 8,
+    "requirements": [
+        "copper/1000",
+        "lead/500"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "earth-core-01-dawn"
+    },
+    "upgrades": ["earth-core-03-cradle"]
+}
