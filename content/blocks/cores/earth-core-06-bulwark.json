@@ -1,4 +1,5 @@
 {
+    "name": "earth-core-06-bulwark",
     "localizedName": "Core: Bulwark",
     "description": "-",
     "type": "CoreBlock",
@@ -17,6 +18,5 @@
     "category": "effect",
     "research": {
         "parent": "earth-core-05-axis"
-    },
-    "upgrades": ["earth-core-07-zenith"]
+    }
 }

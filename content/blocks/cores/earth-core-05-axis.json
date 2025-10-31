@@ -1,4 +1,5 @@
 {
+    "name": "earth-core-05-axis",
     "localizedName": "Core: Axis",
     "description": "-",
     "type": "CoreBlock",
@@ -16,6 +17,5 @@
     "category": "effect",
     "research": {
         "parent": "earth-core-04-sentinel"
-    },
-    "upgrades": ["earth-core-06-bulwark"]
+    }
 }

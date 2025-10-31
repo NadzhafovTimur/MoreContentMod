@@ -1,4 +1,5 @@
 {
+    "name": "earth-core-08-paragon",
     "localizedName": "Core: Paragon",
     "description": "-",
     "type": "CoreBlock",
@@ -19,6 +20,5 @@
     "category": "effect",
     "research": {
         "parent": "earth-core-07-zenith"
-    },
-    "upgrades": ["earth-core-09-eternum"]
+    }
 }

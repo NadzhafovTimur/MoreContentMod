@@ -1,4 +1,6 @@
 {
+
+    "name": "earth-core-09-eternum",
     "localizedName": "Core: Eternum",
     "description": "-",
     "type": "CoreBlock",
@@ -20,6 +22,5 @@
     "category": "effect",
     "research": {
         "parent": "earth-core-08-paragon"
-    },
-    "upgrades": []
+    }
 }

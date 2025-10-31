@@ -25,7 +25,7 @@ This is the **first version** of the mod — in the future, it will grow into a 
 ### Installation
 1. Download or clone this repository:  
    ```bash
-   git clone https://github.com/NadzhafovTimur/MoreContentMod
+   git clone https://github.com/NadzhafovTimur/More-content-mod
    ```
 2. Move the folder to your Mindustry mods directory:
    - **Windows:** `%appdata%/Mindustry/mods`  

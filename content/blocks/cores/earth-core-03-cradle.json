@@ -1,4 +1,5 @@
 {
+    "name": "earth-core-03-cradle",
     "localizedName": "Core: Cradle",
     "description": "-",
     "type": "CoreBlock",
@@ -14,6 +15,5 @@
     "category": "effect",
     "research": {
         "parent": "earth-core-02-hearth"
-    },
-    "upgrades": ["earth-core-04-sentinel"]
+    }
 }

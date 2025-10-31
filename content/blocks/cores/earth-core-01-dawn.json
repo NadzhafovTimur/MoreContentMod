@@ -1,23 +1,24 @@
 {
+    "squareSprite": false,
+    "isFirstTier": true,
+    "unitType": "alpha",
+    "name": "earth-core-01-dawn",
     "localizedName": "Core: Dawn",
     "description": "-",
     "type": "CoreBlock",
     "size": 2,
     "health": 1000,
     "itemCapacity": 1000,
-    "unitCapModifier": 0,
     "researchCostMultiplier": 0.8,
     "requirements": [
         "copper/500"
     ],
     "category": "effect",
-    "buildVisibility": "shown",
     "alwaysUnlocked": true,
     "research": {
         "planet": "earth",
         "root": true,
         "name": "Earth",
         "requiresUnlock": false
-    },
-    "upgrades": ["earth-core-02-hearth"]
+    }
 }

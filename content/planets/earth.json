@@ -1,5 +1,4 @@
 {
-    "name": "earth",
     "localizedName": "Earth",
     "description": "-",
     "alwaysUnlocked": true,
@@ -109,10 +108,10 @@
     },
 
     "orbitRadius": 25,
-    "sectorSize": 1,
+    "sectorSize": 2,
     "allowLaunchSchematics": true,
     "allowLaunchToNumbered": true,
-    "allowLaunchLoadout": true,
+    "allowLaunchLoadout": false,
     "allowSectorInvasion": true,
     "startSector": 0,
     "orbitSpacing": 1,
@@ -136,16 +135,5 @@
     "defaultCore": "earth-core-01-dawn",
     "parent": "sun",
     "solarSystem": "sun",
-    "launchCandidates": [],
-    "itemWhitelist": [
-        "copper",
-        "lead",
-        "sand",
-        "scrap",
-        "coal",
-        "titanium",
-        "thorium",
-        "graphite",
-        "metaglass"
-    ]
+    "launchCandidates": []
 }

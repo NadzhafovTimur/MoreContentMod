@@ -1,4 +1,6 @@
 {
+
+    "name": "earth-core-07-zenith",
     "localizedName": "Core: Zenith",
     "description": "-",
     "type": "CoreBlock",
@@ -18,6 +20,5 @@
     "category": "effect",
     "research": {
         "parent": "earth-core-06-bulwark"
-    },
-    "upgrades": ["earth-core-08-paragon"]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "name": "earth-core-02-hearth",
     "localizedName": "Core: Hearth",
     "description": "-",
     "type": "CoreBlock",
@@ -13,6 +14,5 @@
     "category": "effect",
     "research": {
         "parent": "earth-core-01-dawn"
-    },
-    "upgrades": ["earth-core-03-cradle"]
+    }
 }
