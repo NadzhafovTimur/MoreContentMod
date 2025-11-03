@@ -1,9 +1,0 @@
-{
-    "type": "OreBlock",
-    "name": "sera-ore",
-    "itemDrop": "sera",
-    "variants": 1,
-    "oreDefault": true,
-    "oreThreshold": 0.78,
-    "oreScale": 22
-}

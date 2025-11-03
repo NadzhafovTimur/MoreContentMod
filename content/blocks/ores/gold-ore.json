@@ -1,9 +1,0 @@
-{
-    "type": "OreBlock",
-    "name": "gold-ore",
-    "itemDrop": "gold",
-    "variants": 3,
-    "oreDefault": true,
-    "oreThreshold": 0.78,
-    "oreScale": 22
-}
