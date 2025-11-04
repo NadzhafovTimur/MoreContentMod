@@ -1,0 +1,10 @@
+{
+    "name": "earth-09-graphite",
+    "description": "-",
+    "color": "b2b2b2",
+    "hardness": 1,
+    "cost": 1,
+    "research": {
+        "parent": "earth-05-coal"
+    }
+}

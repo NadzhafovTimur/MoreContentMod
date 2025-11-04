@@ -1,0 +1,10 @@
+{
+    "name": "earth-coal-ore",
+    "type": "OreBlock",
+    "description": "-",
+    "itemDrop": "earth-05-coal",
+    "variants": 3,
+    "oreDefault": true,
+    "oreThreshold": 0.7,
+    "oreScale": 24.0
+}

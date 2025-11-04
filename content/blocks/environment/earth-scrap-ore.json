@@ -1,0 +1,10 @@
+{
+    "name": "earth-scrap-ore",
+    "type": "OreBlock",
+    "description": "-",
+    "itemDrop": "earth-04-scrap",
+    "variants": 3,
+    "oreDefault": true,
+    "oreThreshold": 0.65,
+    "oreScale": 23.0
+}

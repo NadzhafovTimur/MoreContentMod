@@ -1,0 +1,13 @@
+{
+    "name": "earth-03-oil",
+    "type": "Liquid",
+    "description": "-",
+    "color": "313131",
+    "temperature": 0.6,
+    "viscosity": 0.8,
+    "heatCapacity": 0.4,
+    "flammability": 0.8,
+    "research": {
+        "parent": "earth-05-coal"
+    }
+}

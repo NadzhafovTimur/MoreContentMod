@@ -1,0 +1,9 @@
+{
+    "type": "OreBlock",
+    "name": "earth-iron-ore",
+    "itemDrop": "earth-21-iron",
+    "variants": 3,
+    "oreDefault": true,
+    "oreThreshold": 0.8,
+    "oreScale": 24
+}

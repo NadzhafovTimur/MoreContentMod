@@ -1,0 +1,10 @@
+{
+    "name": "earth-11-silicon",
+    "description": "-",
+    "color": "ffd59e",
+    "hardness": 2,
+    "cost": 2,
+    "research": {
+        "parent": "earth-09-graphite"
+    }
+}

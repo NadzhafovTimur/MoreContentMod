@@ -1,0 +1,10 @@
+{
+    "name": "earth-04-scrap",
+    "description": "-",
+    "color": "777777",
+    "hardness": 0,
+    "cost": 1,
+    "research": {
+        "parent": "earth-03-sand"
+    }
+}

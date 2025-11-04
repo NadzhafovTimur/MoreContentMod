@@ -1,0 +1,12 @@
+{
+    "name": "earth-06-16-thorium-wall-large",
+    "description": "-",
+    "type": "Wall",
+    "health": 3200,
+    "size": 2,
+    "requirements": [
+        { "item": "earth-07-thorium", "amount": 24 }
+    ],
+    "category": "defense",
+    "research": "earth-06-15-thorium-wall"
+}

@@ -1,0 +1,14 @@
+{
+    "type": "liquid",
+    "name": "earth-11-sulfuric-acid",
+    "description": "-",
+    "color": "b8ff2f",
+    "alwaysUnlocked": false,
+    "temperature": 0.5,
+    "flammability": 0,
+    "viscosity": 0,
+    "heatCapacity": 0,
+    "explosiveness": 0,
+    "effect": "corrosion-5",
+    "research": "earth-23-sulfur"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "earth-06-17-phase-wall",
+    "description": "-",
+    "type": "Wall",
+    "health": 600,
+    "size": 1,
+    "requirements": [
+        { "item": "phase-fabric", "amount": 6 }
+    ],
+    "category": "defense",
+    "chanceDeflect": 10,
+    "flashHit": true,
+    "research": "earth-06-16-thorium-wall-large"
+}

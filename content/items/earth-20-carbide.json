@@ -1,0 +1,10 @@
+{
+    "name": "earth-20-carbide",
+    "description": "-",
+    "color": "b5b5b5",
+    "hardness": 3,
+    "cost": 3,
+    "research": {
+        "parent": "earth-19-tungsten"
+    }
+}

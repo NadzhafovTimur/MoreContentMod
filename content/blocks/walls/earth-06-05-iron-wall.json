@@ -1,0 +1,13 @@
+{
+    "name": "earth-06-05-iron-wall",
+    "description": "-",
+    "type": "Wall",
+    "health": 400,
+    "size": 1,
+    "requirements": [
+        "earth-21-iron/6"
+    ],
+    "category": "defense",
+    "research": "earth-06-04-lead-wall-large"
+
+}

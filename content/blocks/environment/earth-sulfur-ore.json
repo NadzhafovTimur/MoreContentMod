@@ -1,0 +1,9 @@
+{
+    "type": "OreBlock",
+    "name": "earth-sulfur-ore",
+    "itemDrop": "earth-23-sulfur",
+    "variants": 1,
+    "oreDefault": true,
+    "oreThreshold": 0.78,
+    "oreScale": 22
+}

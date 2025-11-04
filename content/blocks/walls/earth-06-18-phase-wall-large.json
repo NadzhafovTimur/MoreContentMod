@@ -1,0 +1,14 @@
+{
+    "name": "earth-06-18-phase-wall-large",
+    "description": "-",
+    "type": "Wall",
+    "health": 2400,
+    "size": 2,
+    "requirements": [
+        { "item": "phase-fabric", "amount": 24 }
+    ],
+    "category": "defense",
+    "chanceDeflect": 10,
+    "flashHit": true,
+    "research": "earth-06-17-phase-wall"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "earth-04-cryofluid",
+    "type": "Liquid",
+    "description": "-",
+    "color": "6ecdec",
+    "temperature": 0.1,
+    "viscosity": 0.5,
+    "heatCapacity": 0.9,
+    "research": {
+        "parent": "earth-06-titanium"
+    }
+}

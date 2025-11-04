@@ -2,9 +2,9 @@
     "name": "more-content-mod",
     "displayName": "More content mod",
     "author": "NadzhafovTimur and Lemihir",
-    "description": "This mod adds gold, iron, gold walls, iron walls, and lead walls. More will be added in the future. Stay tuned.",
-    "version": "1.1",
-    "minGameVersion": 147,
+    "description": "This mod adds new planet 'Earth' with custom meshes and new blocks, units, and items.",
+    "version": "2.1",
+    "minGameVersion": 152,
     "hidden": false,
     "dependencies": []
 }

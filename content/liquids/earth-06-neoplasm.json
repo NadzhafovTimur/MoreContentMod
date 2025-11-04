@@ -1,0 +1,13 @@
+{
+    "name": "earth-06-neoplasm",
+    "type": "Liquid",
+    "description": "-",
+    "color": "ff6c6c",
+    "heatCapacity": 0.7,
+    "viscosity": 0.6,
+    "flammability": 0.4,
+    "temperature": 0.8,
+    "research": {
+        "parent": "earth-05-arkycite"
+    }
+}

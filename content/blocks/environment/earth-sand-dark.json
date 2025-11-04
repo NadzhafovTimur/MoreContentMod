@@ -1,0 +1,13 @@
+{
+    "name": "earth-sand-dark",
+    "type": "Floor",
+    "description": "-",
+    "speedMultiplier": 0.85,
+    "variants": 3,
+    "itemDrop": "earth-03-sand",
+    "isLiquid": false,
+    "playerUnmineable": false,
+    "attributes": {
+        "heat": 0.2
+    }
+}

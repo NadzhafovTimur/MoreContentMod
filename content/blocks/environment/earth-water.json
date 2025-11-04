@@ -1,0 +1,12 @@
+{
+    "name": "earth-water",
+    "type": "Floor",
+    "description": "-",
+    "liquidDrop": "earth-01-water",
+    "isLiquid": true,
+    "speedMultiplier": 0.4,
+    "variants": 3,
+    "cacheLayer": "water",
+    "albedo": 0.5,
+    "status": "wet"
+}

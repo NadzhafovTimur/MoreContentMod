@@ -1,0 +1,22 @@
+{
+    "type": "CoreBlock",
+    "name": "earth-09-01-core-dawn",
+    "description": "-",
+    "requirements": [
+        "earth-01-copper/500"
+    ],
+    "isFirstTier": true,
+    "size": 2,
+    "alwaysUnlocked": true,
+    "unitType": "alpha",
+    "health": 1000,
+    "itemCapacity": 1000,
+    "unitCapModifier": 0,
+    "category": "effect",
+    "research": {
+        "planet": "earth",
+        "root": true,
+        "name": "Earth",
+        "requiresUnlock": false
+    }
+}

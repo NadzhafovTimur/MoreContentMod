@@ -1,0 +1,10 @@
+{
+    "name": "earth-21-iron",
+    "description": "-",
+    "cost": 1.0,
+    "hardness": 2,
+    "color": "434b4d",
+    "research": {
+        "parent": "earth-02-lead"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "earth-06-07-gold-wall",
+    "description": "-",
+    "type": "Wall",
+    "health": 250,
+    "size": 1,
+    "requirements": [
+        { "item": "earth-22-gold", "amount": 6 }
+    ],
+    "category": "defense",
+    "research": "earth-06-06-iron-wall-large"
+}

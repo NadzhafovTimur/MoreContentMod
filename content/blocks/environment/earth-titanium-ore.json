@@ -1,0 +1,10 @@
+{
+    "name": "earth-titanium-ore",
+    "type": "OreBlock",
+    "description": "-",
+    "itemDrop": "earth-06-titanium",
+    "variants": 3,
+    "oreDefault": true,
+    "oreThreshold": 0.75,
+    "oreScale": 25.0
+}

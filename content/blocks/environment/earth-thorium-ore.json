@@ -1,0 +1,10 @@
+{
+    "name": "earth-thorium-ore",
+    "type": "OreBlock",
+    "description": "-",
+    "itemDrop": "earth-07-thorium",
+    "variants": 3,
+    "oreDefault": true,
+    "oreThreshold": 0.72,
+    "oreScale": 26.0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "earth-09-07-core-zenith",
+    "description": "-",
+    "type": "CoreBlock",
+    "unitType": "gamma",
+    "size": 8,
+    "health": 64000,
+    "itemCapacity": 64000,
+    "unitCapModifier": 48,
+    "requirements": [
+        "earth-01-copper/32000",
+        "earth-02-lead/16000",
+        "earth-21-iron/8000",
+        "earth-22-gold/4000",
+        "earth-23-sulfur/2000",
+        "earth-06-titanium/1000",
+        "earth-17-beryllium/500"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "earth-09-06-core-bulwark"
+    }
+}

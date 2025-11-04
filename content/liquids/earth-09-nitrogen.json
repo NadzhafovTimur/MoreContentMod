@@ -1,0 +1,12 @@
+{
+    "name": "earth-09-nitrogen",
+    "type": "Liquid",
+    "description": "-",
+    "color": "b5d9f8",
+    "temperature": 0.4,
+    "viscosity": 0.5,
+    "heatCapacity": 0.6,
+    "research": {
+        "parent": "earth-02-slag"
+    }
+}

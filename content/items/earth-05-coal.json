@@ -1,0 +1,10 @@
+{
+    "name": "earth-05-coal",
+    "description": "-",
+    "color": "272727",
+    "hardness": 1,
+    "cost": 1,
+    "research": {
+        "parent": "earth-03-sand"
+    }
+}

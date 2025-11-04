@@ -1,0 +1,11 @@
+{
+    "name": "earth-arkycite",
+    "type": "Floor",
+    "description": "-",
+    "liquidDrop": "earth-05-arkycite",
+    "isLiquid": true,
+    "speedMultiplier": 0.35,
+    "variants": 3,
+    "cacheLayer": "water",
+    "albedo": 0.4
+}

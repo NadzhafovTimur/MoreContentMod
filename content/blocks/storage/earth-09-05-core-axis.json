@@ -1,0 +1,21 @@
+{
+    "name": "earth-09-05-core-axis",
+    "description": "-",
+    "type": "CoreBlock",
+    "unitType": "beta",
+    "size": 6,
+    "health": 16000,
+    "itemCapacity": 16000,
+    "unitCapModifier": 32,
+    "requirements": [
+        "earth-01-copper/8000",
+        "earth-02-lead/4000",
+        "earth-21-iron/2000",
+        "earth-22-gold/1000",
+        "earth-23-sulfur/500"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "earth-09-04-core-sentinel"
+    }
+}

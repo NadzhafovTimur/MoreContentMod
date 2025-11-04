@@ -1,0 +1,13 @@
+{
+    "name": "earth-02-slag",
+    "type": "liquid",
+    "description": "-",
+    "color": "ffa166",
+    "temperature": 1,
+    "viscosity": 0.7,
+    "heatCapacity": 0.5,
+    "flammability": 0.2,
+    "research": {
+        "parent": "earth-04-scrap"
+    }
+}

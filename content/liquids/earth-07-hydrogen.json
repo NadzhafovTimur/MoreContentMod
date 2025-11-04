@@ -1,0 +1,13 @@
+{
+    "name": "earth-07-hydrogen",
+    "type": "Liquid",
+    "description": "-",
+    "color": "f4f4f4",
+    "temperature": 0.4,
+    "viscosity": 0.3,
+    "heatCapacity": 0.3,
+    "flammability": 1.0,
+    "research": {
+        "parent": "earth-01-water"
+    }
+}

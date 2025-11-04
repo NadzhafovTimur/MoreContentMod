@@ -1,0 +1,10 @@
+{
+    "name": "earth-12-pyratite",
+    "description": "-",
+    "color": "ffaa5f",
+    "hardness": 1,
+    "cost": 1,
+    "research": {
+        "parent": "earth-05-coal"
+    }
+}

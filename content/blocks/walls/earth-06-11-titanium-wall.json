@@ -1,0 +1,12 @@
+{
+    "name": "earth-06-11-titanium-wall",
+    "description": "-",
+    "type": "Wall",
+    "health": 440,
+    "size": 1,
+    "requirements": [
+        "earth-06-titanium/6"
+    ],
+    "category": "defense",
+    "research": "earth-06-02-copper-wall-large"
+}

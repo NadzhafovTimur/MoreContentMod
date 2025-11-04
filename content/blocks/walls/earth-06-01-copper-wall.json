@@ -1,0 +1,12 @@
+{
+    "name": "earth-06-01-copper-wall",
+    "description": "-",
+    "type": "Wall",
+    "health": 320,
+    "size": 1,
+    "requirements": [
+        { "item": "earth-01-copper", "amount": 6 }
+    ],
+    "category": "defense",
+    "research": "earth-09-01-core-dawn"
+}

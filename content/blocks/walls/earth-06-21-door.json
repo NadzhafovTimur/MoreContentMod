@@ -1,0 +1,14 @@
+{
+    "name": "earth-06-21-door",
+    "description": "-",
+    "type": "Door",
+    "health": 440,
+    "size": 1,
+    "requirements": [
+        "titanium/6",
+        "silicon/4"
+    ],
+    "category": "defense",
+    "hasPower": false,
+    "research": "earth-06-12-titanium-wall-large"
+}

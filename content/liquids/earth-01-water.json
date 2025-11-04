@@ -1,0 +1,12 @@
+{
+    "name": "earth-01-water",
+    "type": "Liquid",
+    "description": "-",
+    "color": "596ab8",
+    "temperature": 0.5,
+    "viscosity": 0.4,
+    "heatCapacity": 0.5,
+    "research": {
+        "parent": "earth-10-metaglass"
+    }
+}

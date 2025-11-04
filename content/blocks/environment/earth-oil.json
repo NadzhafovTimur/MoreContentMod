@@ -1,0 +1,12 @@
+{
+    "name": "earth-oil",
+    "type": "Floor",
+    "description": "-",
+    "liquidDrop": "earth-03-oil",
+    "isLiquid": true,
+    "speedMultiplier": 0.3,
+    "variants": 3,
+    "cacheLayer": "water",
+    "albedo": 0.45,
+    "status": "tarred"
+}

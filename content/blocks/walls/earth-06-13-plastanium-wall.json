@@ -1,0 +1,17 @@
+{
+    "name": "earth-06-13-plastanium-wall",
+    "description": "-",
+    "type": "Wall",
+    "health": 500,
+    "size": 1,
+    "requirements": [
+        "earth-14-plastanium/5",
+        "earth-10-metaglass/2"
+    ],
+    "category": "defense",
+    "absorbLasers": true,
+    "lightningChance": 0,
+    "lightningDamage": 0,
+    "lightningLength": 0,
+    "research": "earth-06-12-titanium-wall-large"
+}

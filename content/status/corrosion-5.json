@@ -1,0 +1,14 @@
+{
+    "name": "corrosion-5",
+    "description": "-",
+    "color": "9cff47",
+    "damage": 5,
+    "speedMultiplier": 0.75,
+    "reloadMultiplier": 0.75,
+    "effect": "steam",
+    "transitionDamage": 0.75,
+    "damageMultiplier": 0.75,
+    "disarm": false,
+    "permanent": false,
+    "show": true
+}

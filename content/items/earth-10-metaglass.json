@@ -1,0 +1,10 @@
+{
+    "name": "earth-10-metaglass",
+    "description": "-",
+    "color": "ebeef5",
+    "hardness": 2,
+    "cost": 2,
+    "research": {
+        "parent": "earth-02-lead"
+    }
+}

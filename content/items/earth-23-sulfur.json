@@ -1,0 +1,10 @@
+{
+    "name": "earth-23-sulfur",
+    "description": "-",
+    "cost": 2.0,
+    "hardness": 3,
+    "color": "ffffe0",
+    "research": {
+        "parent": "earth-22-gold"
+    }
+}

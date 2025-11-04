@@ -1,0 +1,12 @@
+{
+    "name": "earth-06-03-lead-wall",
+    "description": "-",
+    "type": "Wall",
+    "health": 320,
+    "size": 1,
+    "requirements": [
+        { "item": "earth-02-lead", "amount": 6 }
+    ],
+    "category": "defense",
+    "research": "earth-06-02-copper-wall-large"
+}

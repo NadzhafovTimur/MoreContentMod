@@ -1,0 +1,10 @@
+{
+    "name": "earth-16-surge-alloy",
+    "description": "-",
+    "color": "f3e979",
+    "hardness": 3,
+    "cost": 3,
+    "research": {
+        "parent": "earth-07-thorium"
+    }
+}

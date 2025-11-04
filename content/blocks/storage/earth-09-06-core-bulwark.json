@@ -1,0 +1,22 @@
+{
+    "name": "earth-09-06-core-bulwark",
+    "description": "-",
+    "type": "CoreBlock",
+    "unitType": "beta",
+    "size": 7,
+    "health": 32000,
+    "itemCapacity": 32000,
+    "unitCapModifier": 40,
+    "requirements": [
+        "earth-01-copper/16000",
+        "earth-02-lead/8000",
+        "earth-21-iron/4000",
+        "earth-22-gold/2000",
+        "earth-23-sulfur/1000",
+        "earth-06-titanium/500"
+    ],
+    "category": "effect",
+    "research": {
+        "parent": "earth-09-05-core-axis"
+    }
+}

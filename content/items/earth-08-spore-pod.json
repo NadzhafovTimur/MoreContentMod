@@ -1,0 +1,10 @@
+{
+    "name": "earth-spore-08-pod",
+    "description": "-",
+    "color": "7457ce",
+    "hardness": 1,
+    "cost": 1,
+    "research": {
+        "parent": "earth-05-coal"
+    }
+}

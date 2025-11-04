@@ -1,0 +1,10 @@
+{
+    "name": "earth-14-plastanium",
+    "description": "-",
+    "color": "cbd97f",
+    "hardness": 3,
+    "cost": 1.1,
+    "research": {
+        "parent": "earth-03-oil"
+    }
+}

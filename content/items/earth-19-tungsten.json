@@ -1,0 +1,10 @@
+{
+    "name": "earth-19-tungsten",
+    "description": "-",
+    "color": "cbd1d2",
+    "hardness": 3,
+    "cost": 3,
+    "research": {
+        "parent": "earth-17-beryllium"
+    }
+}
