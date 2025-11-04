@@ -107,10 +107,10 @@
     },
     "orbitRadius": 25,
     "sectorSize": 2,
-    "allowLaunchSchematics": true,
+    "allowLaunchSchematics": false,
     "allowLaunchToNumbered": false,
-    "allowLaunchLoadout": true,
-    "allowSectorInvasion": true,
+    "allowLaunchLoadout": false,
+    "allowSectorInvasion": false,
     "startSector": 0,
     "orbitSpacing": 1,
     "radius": 1.2,
@@ -134,4 +134,5 @@
     "parent": "sun",
     "solarSystem": "sun",
     "launchCandidates": []
+
 }
